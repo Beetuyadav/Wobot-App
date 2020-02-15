@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4C295658-E3C5-4B79-9DB7-2DC672493F0D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C295658-E3C5-4B79-9DB7-2DC672493F0D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wobot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wobot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Wobot with scheme Wobot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603448404.02470303</real>
+			<key>timeStoppedRecording</key>
+			<real>603448411.96658301</real>
+			<key>title</key>
+			<string>Building project Wobot with scheme Wobot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4C295658-E3C5-4B79-9DB7-2DC672493F0D</string>
+		</dict>
+		<key>A199E7D0-60AF-4042-863E-04D9C3FE87AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A199E7D0-60AF-4042-863E-04D9C3FE87AE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wobot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wobot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Wobot with scheme Wobot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603451862.62082899</real>
+			<key>timeStoppedRecording</key>
+			<real>603451870.04984903</real>
+			<key>title</key>
+			<string>Building project Wobot with scheme Wobot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A199E7D0-60AF-4042-863E-04D9C3FE87AE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
